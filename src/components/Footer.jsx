@@ -1,9 +1,11 @@
 import { Facebook, Instagram, MailOutline, Phone, Pinterest, Room, Twitter } from '@mui/icons-material'
 import React from 'react'
 import styled from 'styled-components'
+import { mobile } from '../responsive'
 
 const Container = styled.div`
     display: flex;
+    ${mobile({flexDirection: "column"})};
 `
 
 const Left = styled.div`
@@ -21,7 +23,8 @@ const Desc = styled.p`
 
 const Center = styled.div`
     flex: 1;   
-    padding: 20px; 
+    padding: 20px;
+    ${mobile({display: "none"})}; 
 `
 const SocialContainer = styled.div`
     display: flex;
