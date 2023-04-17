@@ -77,3 +77,20 @@
 - [Material-UI](https://mui.com/pt/)
 
 ## Design
+
+Home Page
+![image](https://user-images.githubusercontent.com/31814665/232581378-9788de08-c8cc-4dce-8cf2-b8a37f5e3d4a.png)
+
+![image](https://user-images.githubusercontent.com/31814665/232581620-48a624a5-a42c-4a5e-9eed-40eb1789e95d.png)
+
+Product List Page
+
+![image](https://user-images.githubusercontent.com/31814665/232581877-c8494da3-e642-4ca6-bc52-a8f97db8f009.png)
+
+Individual Product Page
+
+![image](https://user-images.githubusercontent.com/31814665/232582079-219b3042-ffbb-42e4-b83f-9489aeb2315a.png)
+
+Cart Page
+
+![image](https://user-images.githubusercontent.com/31814665/232582255-55fd017d-ea04-4dd4-a7f0-d7993086f21f.png)
